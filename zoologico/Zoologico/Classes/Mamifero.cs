@@ -31,10 +31,5 @@ namespace Zoologico.Classes
         {
             Console.WriteLine($"{Nome} é mamífero e está sendo cuidado");
         }
-
-        public void teste()
-        {
-
-        }
     }
 }
