@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\reptil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\reptil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\interfaces\\ialimentavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\interfaces\\ialimentavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\ave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\zoologicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\zoologicoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\interfaces\\icuidavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\interfaces\\icuidavel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\tratador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\tratador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\tratadormamiferos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\tratadormamiferos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\tratadoraves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\tratadoraves.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|c:\\users\\aluno-cesul\\source\\repos\\zoologico\\zoologico\\classes\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFAA65D-AC37-455A-A1E1-8DF8E0CFF150}|Zoologico\\Zoologico.csproj|solutionrelative:zoologico\\classes\\mamifero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mamifero.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Mamifero.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\Mamifero.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Mamifero.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\Mamifero.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:40:28.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TratadorAves.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\TratadorAves.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\TratadorAves.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\TratadorAves.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\TratadorAves.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:43:15.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TratadorMamiferos.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\TratadorMamiferos.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\TratadorMamiferos.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\TratadorMamiferos.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\TratadorMamiferos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:43:06.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tratador.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Tratador.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\Tratador.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Tratador.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\Tratador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:39:11.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICuidavel.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Interfaces\\ICuidavel.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Interfaces\\ICuidavel.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Interfaces\\ICuidavel.cs",
+              "RelativeToolTip": "Zoologico\\Interfaces\\ICuidavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:36:21.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reptil.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Reptil.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\Reptil.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Reptil.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\Reptil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T23:31:34.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZoologicoClass.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\ZoologicoClass.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\ZoologicoClass.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\ZoologicoClass.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\ZoologicoClass.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwDMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:53:03.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ave.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Ave.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\Ave.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Ave.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\Ave.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:46:24.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Animal.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Classes\\Animal.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Classes\\Animal.cs",
+              "RelativeToolTip": "Zoologico\\Classes\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:34:58.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAlimentavel.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Interfaces\\IAlimentavel.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Interfaces\\IAlimentavel.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Interfaces\\IAlimentavel.cs",
+              "RelativeToolTip": "Zoologico\\Interfaces\\IAlimentavel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:33:37.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeDocumentMoniker": "Zoologico\\Program.cs",
+              "ToolTip": "C:\\Users\\aluno-cesul\\source\\repos\\Zoologico\\Zoologico\\Program.cs",
+              "RelativeToolTip": "Zoologico\\Program.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwHgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T22:30:51.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
